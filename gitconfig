@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adrienne.robertvassy@gmail.com
+	name = adrienne robert vassy
